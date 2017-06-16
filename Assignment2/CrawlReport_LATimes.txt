@@ -1,0 +1,37 @@
+Name: Anchal Kapoor
+USC ID: 2650399913
+News site crawled: latimes.com
+Fetch Statistics
+================
+# fetches 
+attempted: 20,000
+# fetches succeeded: 19400
+# fetches aborted: 591
+# fetches failed: 9
+Outgoing URLs:
+==============
+Total URLs extracted: 729959
+# unique URLs extracted: 152218
+# unique URLs within News Site: 132984
+# unique URLs outside News Site: 19234
+Status Codes:
+=============
+200 OK: 19400
+301 Moved Permanently: 583
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 9
+File Sizes:
+===========
+< 1KB: 5
+1KB ~ <10KB: 6
+10KB ~ <100KB: 2712
+100KB ~ <1MB: 16618
+>= 1MB: 59
+Content Types:
+==============
+text/html: 19378
+image/gif: 3
+image/jpeg: 7
+image/png: 12
+application/pdf: 0
